@@ -1,4 +1,4 @@
-# ☕ Cafetería
+# Cafetería
 
 Sistema de pedidos para cafetería desarrollado en Java aplicando Programación Orientada a Objetos, patrones de diseño y comunicación cliente-servidor mediante sockets.
 
